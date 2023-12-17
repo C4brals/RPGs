@@ -26,6 +26,12 @@ static void Menu()
         case "4":
             Dividir();
             break;
+
+        default:
+            Console.WriteLine("Escolha uma opção válida. O sistema será reiniciado. PRESSIONE ALGUMA TECLA PARA CONTINUAR...");
+            Console.ReadKey();
+            Menu();
+            break;
     }
 }
 static void Somar()
@@ -77,4 +83,3 @@ static void Dividir()
 
     Console.WriteLine("O valor da multiiplicação é: " + Div);
 }
-
