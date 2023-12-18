@@ -1,0 +1,45 @@
+C:\Users\augus\OneDrive\Documents\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\augus\OneDrive\Documents\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\augus\OneDrive\Documents\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\augus\OneDrive\Documents\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\augus\OneDrive\Documents\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\augus\OneDrive\Documents\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Grillo\Documents\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Grillo\Documents\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Grillo\Documents\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Grillo\Documents\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Grillo\Documents\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Grillo\Documents\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\Grillo\Documents\C# - Estudos\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
