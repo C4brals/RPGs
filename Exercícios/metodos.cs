@@ -97,6 +97,43 @@ namespace Exercicio
             {
                 Environment.Exit(0);
             }
+
+        }
+
+        public static void deletar_arquivo()
+        {
+            Console.WriteLine("Você realmente deseja DELETAR o arquivo?");
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("Digite CANCELAR para prosseguir...");
+            Console.WriteLine("Digite DELETAR para excluir o arquivo.");
+            Console.WriteLine("----------------------------------------");
+            Console.Write("-> ");
+            string escolha = Console.ReadLine();
+            escolha.ToUpper();
+
+            switch (escolha)
+            {
+
+                case "CANCELAR":
+                    arquivo();
+                    break;
+
+                case "DELETAR":
+                    File.Delete(@"C:\csharp\dados.txt");
+                    Console.BackgroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Arquivo deletado!");
+                    Console.BackgroundColor = ConsoleColor.Black;
+                    break;
+
+                default:
+                    Console.WriteLine("Por favor, digite uma opção válida!");
+                    deletar_arquivo();
+                    break;
+            }
+
+
+
+
         }
     }
 }

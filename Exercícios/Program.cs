@@ -15,6 +15,7 @@ namespace Exercicio
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("1 - Visualizar arquivos anteriores.");
             Console.WriteLine("2 - Prosseguir para tentativa de acesso.");
+            Console.WriteLine("3 - Deletar arquivo.");
             Console.WriteLine("------------------------------------------");
 
             string escolha = Console.ReadLine();
@@ -27,6 +28,10 @@ namespace Exercicio
 
                 case "2":
                     Arquivos.arquivo();
+                    break;
+
+                case "3":
+                    Arquivos.deletar_arquivo();
                     break;
 
                 default:
