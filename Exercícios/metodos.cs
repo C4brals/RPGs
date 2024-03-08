@@ -65,7 +65,7 @@ namespace Exercicio
             {
                 s = s + 300;
                 Console.WriteLine("Você recebeu um ajuste de salário no valor de R$300,00.");
-                Console.Write("Seu novo salário é {0}", s);
+                Console.WriteLine("Seu novo salário é {0}", s);
                 Console.WriteLine("-------------------------------------------------");
             }
             else
