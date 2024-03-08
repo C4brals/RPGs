@@ -12,11 +12,11 @@ namespace Exercicio
         static void Main(string[] args)
         {
             Console.WriteLine("O que deseja fazer?");
-            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("1 - Visualizar arquivos anteriores.");
             Console.WriteLine("2 - Prosseguir para tentativa de acesso.");
             Console.WriteLine("3 - Deletar arquivo.");
-            Console.WriteLine("------------------------------------------");
+            Console.WriteLine("----------------------------------------");
             Console.Write("-> ");
 
             string escolha = Console.ReadLine();

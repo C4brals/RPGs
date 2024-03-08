@@ -46,12 +46,14 @@ namespace Exercicio
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("Acesso negado! Você não é maior de idade!");
                 Console.BackgroundColor = ConsoleColor.Black;
+                Console.WriteLine("");
                 Environment.Exit(0);
             }
             else
             {
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.WriteLine("Acesso permitido! Você é maior de idade!");
+                Console.WriteLine("");
             }
             //Exercício 03 - Substituindo letras de uma string.
             //string frase = "Local impróprio para menores de idade";
@@ -65,23 +67,26 @@ namespace Exercicio
             {
                 s = s + 300;
                 Console.WriteLine("Você recebeu um ajuste de salário no valor de R$300,00.");
+                Console.BackgroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Seu novo salário é {0}", s);
-                Console.WriteLine("-------------------------------------------------");
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.WriteLine("----------------------------------------");
+                Console.WriteLine("");
             }
             else
             {
                 Console.WriteLine("Seu salário está dentro do esperado!");
-                Console.WriteLine("-------------------------------------------------");
+                Console.WriteLine("----------------------------------------");
             }
             //Exercício 04 - Gravar arquivo.txt
             string caminho = "dados.txt";
 
             Console.WriteLine();
             Console.WriteLine("Processo final");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("1 - Gravar informações.");
             Console.WriteLine("Pressione qualquer outra tecla para fechar a aplicação.");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------------------");
             Console.Write("-> ");
             string escolha = Console.ReadLine();
 
@@ -91,7 +96,7 @@ namespace Exercicio
                 sw.WriteLine("Nome: " + nome);
                 sw.WriteLine("Idade: " + idade);
                 sw.WriteLine("Salário atual: " + s);
-                sw.WriteLine("----------------------------------");
+                sw.WriteLine("----------------------------------------");
                 sw.Close();
             }
             else
