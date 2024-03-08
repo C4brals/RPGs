@@ -34,12 +34,10 @@ namespace Exercicio
             //Exercício 01 - Coletando nome e exibindo em tela.
 
             Console.Write("Informe seu nome: ");
-            Console.Write("-> ");
             nome = Console.ReadLine();
 
             //Exercício 02 - Coletando idade para permitir entrada.
             Console.Write("Informa sua idade: ");
-            Console.Write("-> ");
             idade = Console.ReadLine();
             i = Int32.Parse(idade); //Converte o valor recebido na string idade, e armazena como inteiro na variável i.
 
@@ -60,7 +58,6 @@ namespace Exercicio
             //Console.Write(frase.Replace("a", "o"));
             Console.BackgroundColor = ConsoleColor.Black;
             Console.Write("Informe o valor do seu salário:  ");
-            Console.Write("-> ");
             salario = Console.ReadLine();
             s = Int32.Parse(salario);
 

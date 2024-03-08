@@ -17,6 +17,7 @@ namespace Exercicio
             Console.WriteLine("2 - Prosseguir para tentativa de acesso.");
             Console.WriteLine("3 - Deletar arquivo.");
             Console.WriteLine("------------------------------------------");
+            Console.Write("-> ");
 
             string escolha = Console.ReadLine();
 
