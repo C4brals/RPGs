@@ -9,7 +9,6 @@ namespace Exercicio
 {
     public static class Arquivos
     {
-
         public static void arquivo_anterior()
         {
             //string caminho = "dados.txt";
