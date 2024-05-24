@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\Rpg.csproj",
+      "projectUniqueName": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\Battle\\Rpg.csproj",
       "projectName": "Rpg",
-      "projectPath": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\Rpg.csproj",
+      "projectPath": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\Battle\\Rpg.csproj",
       "packagesPath": "C:\\Users\\Grillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\obj\\",
+      "outputPath": "C:\\Users\\Grillo\\Documents\\C# - Estudos\\Rpg\\Battle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
