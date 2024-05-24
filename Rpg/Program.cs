@@ -158,6 +158,7 @@ if (heroClass == "Paladin")
                 Console.WriteLine("You atack the enemy, inflict 2 damage on PV.");
                 Console.ResetColor();
                 enemyPv -= 2;
+                Console.WriteLine("Press any key to continue...\n");
                 Console.ReadKey();
             }
         }
@@ -307,6 +308,7 @@ else if (heroClass == "Rogue")
                     Console.WriteLine("You atack the enemy, inflict 2 damage on PV.");
                     Console.ResetColor();
                     enemyPv -= 2;
+                    Console.WriteLine("Press any key to continue...\n");
                     Console.ReadKey();
                 }
             }
@@ -457,6 +459,7 @@ else if (heroClass == "Mage")
                     Console.WriteLine("You atack the enemy, inflict 2 damage on PV.");
                     Console.ResetColor();
                     enemyPv -= 2;
+                    Console.WriteLine("Press any key to continue...\n");
                     Console.ReadKey();
                 }
             }
